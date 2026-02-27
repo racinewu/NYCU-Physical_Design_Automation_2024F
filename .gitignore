@@ -1,0 +1,11 @@
+Slides/
+Book/
+Video/
+.vscode
+*.xlsx
+*.docx
+/*.pdf
+
+Lab/Lab1/lab1summary.pdf
+Lab/Lab2/lab2summary.pdf
+Lab/Lab2/lab2summary_v2.pdf
