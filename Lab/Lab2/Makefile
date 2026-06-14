@@ -16,7 +16,6 @@ TARGET = bin/fp
 
 # Default target
 all: $(TARGET)
-	@mkdir -p testcase/output
 
 # Link target
 $(TARGET): $(OBJ)
