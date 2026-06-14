@@ -1,0 +1,293 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="7792" height="8894" viewBox="0 0 7792 8894" style="background:white;font-family:sans-serif">
+  <rect x="60" y="20" width="7672" height="8824" fill="none" stroke="#bbb" stroke-width="1" stroke-dasharray="6 4"/>
+  <rect x="60" y="20" width="5336" height="8824" fill="#f9f9f9" stroke="#999" stroke-width="1.5" stroke-dasharray="8 4"/>
+  <rect x="1796" y="1508" width="3234" height="1708" fill="#e6194b" stroke="#333" stroke-width="0.8" opacity="0.85"/>
+  <text x="3413" y="2354.2" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="bold" fill="#111" paint-order="stroke" stroke="white" stroke-width="2">M001</text>
+  <text x="3413" y="2372.4" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#333" paint-order="stroke" stroke="white" stroke-width="1.5">3234×1708</text>
+  <text x="1798" y="3214" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(1736,5628)</text>
+  <text x="5028" y="1517" text-anchor="end" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(4970,7336)</text>
+  <rect x="3112" y="4826" width="1554" height="672" fill="#3cb44b" stroke="#333" stroke-width="0.8" opacity="0.85"/>
+  <text x="3889" y="5154.2" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="bold" fill="#111" paint-order="stroke" stroke="white" stroke-width="2">M002</text>
+  <text x="3889" y="5172.4" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#333" paint-order="stroke" stroke="white" stroke-width="1.5">1554×672</text>
+  <text x="3114" y="5496" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(3052,3346)</text>
+  <text x="4664" y="4835" text-anchor="end" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(4606,4018)</text>
+  <rect x="2846" y="5498" width="2184" height="1008" fill="#4363d8" stroke="#333" stroke-width="0.8" opacity="0.85"/>
+  <text x="3938" y="5994.2" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="bold" fill="#111" paint-order="stroke" stroke="white" stroke-width="2">M003</text>
+  <text x="3938" y="6012.4" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#333" paint-order="stroke" stroke="white" stroke-width="1.5">2184×1008</text>
+  <text x="2848" y="6504" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(2786,2338)</text>
+  <text x="5028" y="5507" text-anchor="end" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(4970,3346)</text>
+  <rect x="1950" y="3216" width="3080" height="1610" fill="#f58231" stroke="#333" stroke-width="0.8" opacity="0.85"/>
+  <text x="3490" y="4013.2" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="bold" fill="#111" paint-order="stroke" stroke="white" stroke-width="2">M004</text>
+  <text x="3490" y="4031.4" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#333" paint-order="stroke" stroke="white" stroke-width="1.5">3080×1610</text>
+  <text x="1952" y="4824" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(1890,4018)</text>
+  <text x="5028" y="3225" text-anchor="end" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(4970,5628)</text>
+  <rect x="1670" y="7458" width="532" height="1386" fill="#911eb4" stroke="#333" stroke-width="0.8" opacity="0.85"/>
+  <text x="1936" y="8143.2" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="bold" fill="#111" paint-order="stroke" stroke="white" stroke-width="2">M005</text>
+  <text x="1936" y="8161.4" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#333" paint-order="stroke" stroke="white" stroke-width="1.5">532×1386</text>
+  <text x="1672" y="8842" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(1610,0)</text>
+  <text x="2200" y="7467" text-anchor="end" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(2142,1386)</text>
+  <rect x="60" y="4182" width="882" height="1862" fill="#42d4f4" stroke="#333" stroke-width="0.8" opacity="0.85"/>
+  <text x="501" y="5105.2" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="bold" fill="#111" paint-order="stroke" stroke="white" stroke-width="2">M006</text>
+  <text x="501" y="5123.4" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#333" paint-order="stroke" stroke="white" stroke-width="1.5">882×1862</text>
+  <text x="62" y="6042" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(0,2800)</text>
+  <text x="940" y="4191" text-anchor="end" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(882,4662)</text>
+  <rect x="2496" y="5540" width="350" height="868" fill="#f032e6" stroke="#333" stroke-width="0.8" opacity="0.85"/>
+  <text x="2671" y="5966.2" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="bold" fill="#111" paint-order="stroke" stroke="white" stroke-width="2">M007</text>
+  <text x="2671" y="5984.4" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#333" paint-order="stroke" stroke="white" stroke-width="1.5">350×868</text>
+  <text x="2498" y="6406" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(2436,2436)</text>
+  <text x="2844" y="5549" text-anchor="end" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(2786,3304)</text>
+  <rect x="2706" y="7598" width="644" height="1246" fill="#bfef45" stroke="#333" stroke-width="0.8" opacity="0.85"/>
+  <text x="3028" y="8213.2" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="bold" fill="#111" paint-order="stroke" stroke="white" stroke-width="2">M008</text>
+  <text x="3028" y="8231.4" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#333" paint-order="stroke" stroke="white" stroke-width="1.5">644×1246</text>
+  <text x="2708" y="8842" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(2646,0)</text>
+  <text x="3348" y="7607" text-anchor="end" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(3290,1246)</text>
+  <rect x="984" y="5050" width="462" height="980" fill="#fabed4" stroke="#333" stroke-width="0.8" opacity="0.85"/>
+  <text x="1215" y="5532.2" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="bold" fill="#111" paint-order="stroke" stroke="white" stroke-width="2">M009</text>
+  <text x="1215" y="5550.4" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#333" paint-order="stroke" stroke="white" stroke-width="1.5">462×980</text>
+  <text x="986" y="6028" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(924,2814)</text>
+  <text x="1444" y="5059" text-anchor="end" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(1386,3794)</text>
+  <rect x="4666" y="4882" width="294" height="616" fill="#469990" stroke="#333" stroke-width="0.8" opacity="0.85"/>
+  <text x="4813" y="5182.2" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="bold" fill="#111" paint-order="stroke" stroke="white" stroke-width="2">M010</text>
+  <text x="4813" y="5200.4" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#333" paint-order="stroke" stroke="white" stroke-width="1.5">294×616</text>
+  <text x="4668" y="5496" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(4606,3346)</text>
+  <text x="4958" y="4891" text-anchor="end" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(4900,3962)</text>
+  <rect x="1334" y="7010" width="826" height="378" fill="#dcbeff" stroke="#333" stroke-width="0.8" opacity="0.85"/>
+  <text x="1747" y="7191.2" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="bold" fill="#111" paint-order="stroke" stroke="white" stroke-width="2">M011</text>
+  <text x="1747" y="7209.4" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#333" paint-order="stroke" stroke="white" stroke-width="1.5">826×378</text>
+  <text x="1336" y="7386" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(1274,1456)</text>
+  <text x="2158" y="7019" text-anchor="end" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(2100,1834)</text>
+  <rect x="1264" y="8046" width="406" height="798" fill="#9a6324" stroke="#333" stroke-width="0.8" opacity="0.85"/>
+  <text x="1467" y="8437.2" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="bold" fill="#111" paint-order="stroke" stroke="white" stroke-width="2">M012</text>
+  <text x="1467" y="8455.4" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#333" paint-order="stroke" stroke="white" stroke-width="1.5">406×798</text>
+  <text x="1266" y="8842" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(1204,0)</text>
+  <text x="1668" y="8055" text-anchor="end" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(1610,798)</text>
+  <rect x="2496" y="6408" width="266" height="672" fill="#fffac8" stroke="#333" stroke-width="0.8" opacity="0.85"/>
+  <text x="2629" y="6736.2" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="bold" fill="#111" paint-order="stroke" stroke="white" stroke-width="2">M013</text>
+  <text x="2629" y="6754.4" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#333" paint-order="stroke" stroke="white" stroke-width="1.5">266×672</text>
+  <text x="2498" y="7078" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(2436,1764)</text>
+  <text x="2760" y="6417" text-anchor="end" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(2702,2436)</text>
+  <rect x="60" y="6044" width="924" height="406" fill="#800000" stroke="#333" stroke-width="0.8" opacity="0.85"/>
+  <text x="522" y="6239.2" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="bold" fill="#111" paint-order="stroke" stroke="white" stroke-width="2">M014</text>
+  <text x="522" y="6257.4" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#333" paint-order="stroke" stroke="white" stroke-width="1.5">924×406</text>
+  <text x="62" y="6448" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(0,2394)</text>
+  <text x="982" y="6053" text-anchor="end" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(924,2800)</text>
+  <rect x="3350" y="7724" width="840" height="406" fill="#aaffc3" stroke="#333" stroke-width="0.8" opacity="0.85"/>
+  <text x="3770" y="7919.2" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="bold" fill="#111" paint-order="stroke" stroke="white" stroke-width="2">M015</text>
+  <text x="3770" y="7937.4" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#333" paint-order="stroke" stroke="white" stroke-width="1.5">840×406</text>
+  <text x="3352" y="8128" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(3290,714)</text>
+  <text x="4188" y="7733" text-anchor="end" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(4130,1120)</text>
+  <rect x="3350" y="8130" width="798" height="322" fill="#808000" stroke="#333" stroke-width="0.8" opacity="0.85"/>
+  <text x="3749" y="8283.2" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="bold" fill="#111" paint-order="stroke" stroke="white" stroke-width="2">M016</text>
+  <text x="3749" y="8301.4" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#333" paint-order="stroke" stroke="white" stroke-width="1.5">798×322</text>
+  <text x="3352" y="8450" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(3290,392)</text>
+  <text x="4146" y="8139" text-anchor="end" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(4088,714)</text>
+  <rect x="60" y="8060" width="756" height="392" fill="#ffd8b1" stroke="#333" stroke-width="0.8" opacity="0.85"/>
+  <text x="438" y="8248.2" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="bold" fill="#111" paint-order="stroke" stroke="white" stroke-width="2">M017</text>
+  <text x="438" y="8266.4" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#333" paint-order="stroke" stroke="white" stroke-width="1.5">756×392</text>
+  <text x="62" y="8450" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(0,392)</text>
+  <text x="814" y="8069" text-anchor="end" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(756,784)</text>
+  <rect x="3350" y="8452" width="1078" height="392" fill="#000075" stroke="#333" stroke-width="0.8" opacity="0.85"/>
+  <text x="3889" y="8640.2" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="bold" fill="#111" paint-order="stroke" stroke="white" stroke-width="2">M018</text>
+  <text x="3889" y="8658.4" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#333" paint-order="stroke" stroke="white" stroke-width="1.5">1078×392</text>
+  <text x="3352" y="8842" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(3290,0)</text>
+  <text x="4426" y="8461" text-anchor="end" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(4368,392)</text>
+  <rect x="60" y="8452" width="826" height="392" fill="#a9a9a9" stroke="#333" stroke-width="0.8" opacity="0.85"/>
+  <text x="473" y="8640.2" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="bold" fill="#111" paint-order="stroke" stroke="white" stroke-width="2">M019</text>
+  <text x="473" y="8658.4" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#333" paint-order="stroke" stroke="white" stroke-width="1.5">826×392</text>
+  <text x="62" y="8842" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(0,0)</text>
+  <text x="884" y="8461" text-anchor="end" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(826,392)</text>
+  <rect x="60" y="7374" width="798" height="252" fill="#e8a0bf" stroke="#333" stroke-width="0.8" opacity="0.85"/>
+  <text x="459" y="7492.2" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="bold" fill="#111" paint-order="stroke" stroke="white" stroke-width="2">M020</text>
+  <text x="459" y="7510.4" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#333" paint-order="stroke" stroke="white" stroke-width="1.5">798×252</text>
+  <text x="62" y="7624" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(0,1218)</text>
+  <text x="856" y="7383" text-anchor="end" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(798,1470)</text>
+  <rect x="60" y="1536" width="826" height="392" fill="#e6194b" stroke="#333" stroke-width="0.8" opacity="0.85"/>
+  <text x="473" y="1724.2" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="bold" fill="#111" paint-order="stroke" stroke="white" stroke-width="2">M021</text>
+  <text x="473" y="1742.4" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#333" paint-order="stroke" stroke="white" stroke-width="1.5">826×392</text>
+  <text x="62" y="1926" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(0,6916)</text>
+  <text x="884" y="1545" text-anchor="end" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(826,7308)</text>
+  <rect x="60" y="6450" width="952" height="364" fill="#3cb44b" stroke="#333" stroke-width="0.8" opacity="0.85"/>
+  <text x="536" y="6624.2" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="bold" fill="#111" paint-order="stroke" stroke="white" stroke-width="2">M022</text>
+  <text x="536" y="6642.4" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#333" paint-order="stroke" stroke="white" stroke-width="1.5">952×364</text>
+  <text x="62" y="6812" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(0,2030)</text>
+  <text x="1010" y="6459" text-anchor="end" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(952,2394)</text>
+  <rect x="2762" y="6506" width="1134" height="490" fill="#4363d8" stroke="#333" stroke-width="0.8" opacity="0.85"/>
+  <text x="3329" y="6743.2" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="bold" fill="#111" paint-order="stroke" stroke="white" stroke-width="2">M023</text>
+  <text x="3329" y="6761.4" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#333" paint-order="stroke" stroke="white" stroke-width="1.5">1134×490</text>
+  <text x="2764" y="6994" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(2702,1848)</text>
+  <text x="3894" y="6515" text-anchor="end" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(3836,2338)</text>
+  <rect x="872" y="7388" width="798" height="266" fill="#f58231" stroke="#333" stroke-width="0.8" opacity="0.85"/>
+  <text x="1271" y="7513.2" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="bold" fill="#111" paint-order="stroke" stroke="white" stroke-width="2">M024</text>
+  <text x="1271" y="7531.4" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#333" paint-order="stroke" stroke="white" stroke-width="1.5">798×266</text>
+  <text x="874" y="7652" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(812,1190)</text>
+  <text x="1668" y="7397" text-anchor="end" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(1610,1456)</text>
+  <rect x="1012" y="6030" width="322" height="784" fill="#911eb4" stroke="#333" stroke-width="0.8" opacity="0.85"/>
+  <text x="1173" y="6414.2" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="bold" fill="#111" paint-order="stroke" stroke="white" stroke-width="2">M025</text>
+  <text x="1173" y="6432.4" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#333" paint-order="stroke" stroke="white" stroke-width="1.5">322×784</text>
+  <text x="1014" y="6812" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(952,2030)</text>
+  <text x="1332" y="6039" text-anchor="end" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(1274,2814)</text>
+  <rect x="4190" y="7724" width="350" height="728" fill="#42d4f4" stroke="#333" stroke-width="0.8" opacity="0.85"/>
+  <text x="4365" y="8080.2" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="bold" fill="#111" paint-order="stroke" stroke="white" stroke-width="2">M026</text>
+  <text x="4365" y="8098.4" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#333" paint-order="stroke" stroke="white" stroke-width="1.5">350×728</text>
+  <text x="4192" y="8450" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(4130,392)</text>
+  <text x="4538" y="7733" text-anchor="end" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(4480,1120)</text>
+  <rect x="4652" y="7010" width="364" height="840" fill="#f032e6" stroke="#333" stroke-width="0.8" opacity="0.85"/>
+  <text x="4834" y="7422.2" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="bold" fill="#111" paint-order="stroke" stroke="white" stroke-width="2">M027</text>
+  <text x="4834" y="7440.4" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#333" paint-order="stroke" stroke="white" stroke-width="1.5">364×840</text>
+  <text x="4654" y="7848" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(4592,994)</text>
+  <text x="5014" y="7019" text-anchor="end" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(4956,1834)</text>
+  <rect x="2202" y="7080" width="1064" height="518" fill="#bfef45" stroke="#333" stroke-width="0.8" opacity="0.85"/>
+  <text x="2734" y="7331.2" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="bold" fill="#111" paint-order="stroke" stroke="white" stroke-width="2">M028</text>
+  <text x="2734" y="7349.4" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#333" paint-order="stroke" stroke="white" stroke-width="1.5">1064×518</text>
+  <text x="2204" y="7596" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(2142,1246)</text>
+  <text x="3264" y="7089" text-anchor="end" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(3206,1764)</text>
+  <rect x="4540" y="7850" width="490" height="994" fill="#fabed4" stroke="#333" stroke-width="0.8" opacity="0.85"/>
+  <text x="4785" y="8339.2" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="bold" fill="#111" paint-order="stroke" stroke="white" stroke-width="2">M029</text>
+  <text x="4785" y="8357.4" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#333" paint-order="stroke" stroke="white" stroke-width="1.5">490×994</text>
+  <text x="4542" y="8842" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(4480,0)</text>
+  <text x="5028" y="7859" text-anchor="end" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(4970,994)</text>
+  <rect x="60" y="1928" width="728" height="1302" fill="#469990" stroke="#333" stroke-width="0.8" opacity="0.85"/>
+  <text x="424" y="2571.2" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="bold" fill="#111" paint-order="stroke" stroke="white" stroke-width="2">M030</text>
+  <text x="424" y="2589.4" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#333" paint-order="stroke" stroke="white" stroke-width="1.5">728×1302</text>
+  <text x="62" y="3228" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(0,5614)</text>
+  <text x="786" y="1937" text-anchor="end" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(728,6916)</text>
+  <rect x="1446" y="6618" width="1050" height="392" fill="#dcbeff" stroke="#333" stroke-width="0.8" opacity="0.85"/>
+  <text x="1971" y="6806.2" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="bold" fill="#111" paint-order="stroke" stroke="white" stroke-width="2">M031</text>
+  <text x="1971" y="6824.4" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#333" paint-order="stroke" stroke="white" stroke-width="1.5">1050×392</text>
+  <text x="1448" y="7008" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(1386,1834)</text>
+  <text x="2494" y="6627" text-anchor="end" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(2436,2226)</text>
+  <rect x="886" y="8060" width="378" height="784" fill="#9a6324" stroke="#333" stroke-width="0.8" opacity="0.85"/>
+  <text x="1075" y="8444.2" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="bold" fill="#111" paint-order="stroke" stroke="white" stroke-width="2">M032</text>
+  <text x="1075" y="8462.4" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#333" paint-order="stroke" stroke="white" stroke-width="1.5">378×784</text>
+  <text x="888" y="8842" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(826,0)</text>
+  <text x="1262" y="8069" text-anchor="end" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(1204,784)</text>
+  <rect x="60" y="3230" width="1890" height="952" fill="#fffac8" stroke="#333" stroke-width="0.8" opacity="0.85"/>
+  <text x="1005" y="3698.2" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="bold" fill="#111" paint-order="stroke" stroke="white" stroke-width="2">M033</text>
+  <text x="1005" y="3716.4" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#333" paint-order="stroke" stroke="white" stroke-width="1.5">1890×952</text>
+  <text x="62" y="4180" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(0,4662)</text>
+  <text x="1948" y="3239" text-anchor="end" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(1890,5614)</text>
+  <rect x="788" y="2082" width="560" height="1148" fill="#800000" stroke="#333" stroke-width="0.8" opacity="0.85"/>
+  <text x="1068" y="2648.2" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="bold" fill="#111" paint-order="stroke" stroke="white" stroke-width="2">M034</text>
+  <text x="1068" y="2666.4" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#333" paint-order="stroke" stroke="white" stroke-width="1.5">560×1148</text>
+  <text x="790" y="3228" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(728,5614)</text>
+  <text x="1346" y="2091" text-anchor="end" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(1288,6762)</text>
+  <rect x="942" y="4196" width="854" height="392" fill="#aaffc3" stroke="#333" stroke-width="0.8" opacity="0.85"/>
+  <text x="1369" y="4384.2" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="bold" fill="#111" paint-order="stroke" stroke="white" stroke-width="2">M035</text>
+  <text x="1369" y="4402.4" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#333" paint-order="stroke" stroke="white" stroke-width="1.5">854×392</text>
+  <text x="944" y="4586" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(882,4256)</text>
+  <text x="1794" y="4205" text-anchor="end" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(1736,4648)</text>
+  <rect x="3896" y="6548" width="994" height="448" fill="#808000" stroke="#333" stroke-width="0.8" opacity="0.85"/>
+  <text x="4393" y="6764.2" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="bold" fill="#111" paint-order="stroke" stroke="white" stroke-width="2">M036</text>
+  <text x="4393" y="6782.4" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#333" paint-order="stroke" stroke="white" stroke-width="1.5">994×448</text>
+  <text x="3898" y="6994" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(3836,1848)</text>
+  <text x="4888" y="6557" text-anchor="end" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(4830,2296)</text>
+  <rect x="60" y="6814" width="1218" height="560" fill="#ffd8b1" stroke="#333" stroke-width="0.8" opacity="0.85"/>
+  <text x="669" y="7086.2" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="bold" fill="#111" paint-order="stroke" stroke="white" stroke-width="2">M037</text>
+  <text x="669" y="7104.4" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#333" paint-order="stroke" stroke="white" stroke-width="1.5">1218×560</text>
+  <text x="62" y="7372" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(0,1470)</text>
+  <text x="1276" y="6823" text-anchor="end" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(1218,2030)</text>
+  <rect x="1348" y="2096" width="448" height="966" fill="#000075" stroke="#333" stroke-width="0.8" opacity="0.85"/>
+  <text x="1572" y="2571.2" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="bold" fill="#111" paint-order="stroke" stroke="white" stroke-width="2">M038</text>
+  <text x="1572" y="2589.4" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#333" paint-order="stroke" stroke="white" stroke-width="1.5">448×966</text>
+  <text x="1350" y="3060" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(1288,5782)</text>
+  <text x="1794" y="2105" text-anchor="end" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(1736,6748)</text>
+  <rect x="1446" y="4980" width="364" height="784" fill="#a9a9a9" stroke="#333" stroke-width="0.8" opacity="0.85"/>
+  <text x="1628" y="5364.2" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="bold" fill="#111" paint-order="stroke" stroke="white" stroke-width="2">M039</text>
+  <text x="1628" y="5382.4" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#333" paint-order="stroke" stroke="white" stroke-width="1.5">364×784</text>
+  <text x="1448" y="5762" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(1386,3080)</text>
+  <text x="1808" y="4989" text-anchor="end" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(1750,3864)</text>
+  <rect x="942" y="4588" width="868" height="392" fill="#e8a0bf" stroke="#333" stroke-width="0.8" opacity="0.85"/>
+  <text x="1376" y="4776.2" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="bold" fill="#111" paint-order="stroke" stroke="white" stroke-width="2">M040</text>
+  <text x="1376" y="4794.4" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#333" paint-order="stroke" stroke="white" stroke-width="1.5">868×392</text>
+  <text x="944" y="4978" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(882,3864)</text>
+  <text x="1808" y="4597" text-anchor="end" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(1750,4256)</text>
+  <rect x="1446" y="5764" width="364" height="854" fill="#e6194b" stroke="#333" stroke-width="0.8" opacity="0.85"/>
+  <text x="1628" y="6183.2" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="bold" fill="#111" paint-order="stroke" stroke="white" stroke-width="2">M041</text>
+  <text x="1628" y="6201.4" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#333" paint-order="stroke" stroke="white" stroke-width="1.5">364×854</text>
+  <text x="1448" y="6616" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(1386,2226)</text>
+  <text x="1808" y="5773" text-anchor="end" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(1750,3080)</text>
+  <rect x="1348" y="3062" width="378" height="168" fill="#3cb44b" stroke="#333" stroke-width="0.8" opacity="0.85"/>
+  <text x="1537" y="3138.2" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="bold" fill="#111" paint-order="stroke" stroke="white" stroke-width="2">M042</text>
+  <text x="1537" y="3156.4" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#333" paint-order="stroke" stroke="white" stroke-width="1.5">378×168</text>
+  <text x="1350" y="3228" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(1288,5614)</text>
+  <text x="1724" y="3071" text-anchor="end" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(1666,5782)</text>
+  <rect x="886" y="1550" width="910" height="532" fill="#4363d8" stroke="#333" stroke-width="0.8" opacity="0.85"/>
+  <text x="1341" y="1808.2" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="bold" fill="#111" paint-order="stroke" stroke="white" stroke-width="2">M043</text>
+  <text x="1341" y="1826.4" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#333" paint-order="stroke" stroke="white" stroke-width="1.5">910×532</text>
+  <text x="888" y="2080" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(826,6762)</text>
+  <text x="1794" y="1559" text-anchor="end" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(1736,7294)</text>
+  <rect x="1810" y="4826" width="1302" height="630" fill="#f58231" stroke="#333" stroke-width="0.8" opacity="0.85"/>
+  <text x="2461" y="5133.2" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="bold" fill="#111" paint-order="stroke" stroke="white" stroke-width="2">M044</text>
+  <text x="2461" y="5151.4" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#333" paint-order="stroke" stroke="white" stroke-width="1.5">1302×630</text>
+  <text x="1812" y="5454" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(1750,3388)</text>
+  <text x="3110" y="4835" text-anchor="end" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(3052,4018)</text>
+  <rect x="1810" y="5456" width="672" height="1162" fill="#911eb4" stroke="#333" stroke-width="0.8" opacity="0.85"/>
+  <text x="2146" y="6029.2" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="bold" fill="#111" paint-order="stroke" stroke="white" stroke-width="2">M045</text>
+  <text x="2146" y="6047.4" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#333" paint-order="stroke" stroke="white" stroke-width="1.5">672×1162</text>
+  <text x="1812" y="6616" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(1750,2226)</text>
+  <text x="2480" y="5465" text-anchor="end" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(2422,3388)</text>
+  <rect x="2202" y="7640" width="504" height="1204" fill="#42d4f4" stroke="#333" stroke-width="0.8" opacity="0.85"/>
+  <text x="2454" y="8234.2" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="bold" fill="#111" paint-order="stroke" stroke="white" stroke-width="2">M046</text>
+  <text x="2454" y="8252.4" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#333" paint-order="stroke" stroke="white" stroke-width="1.5">504×1204</text>
+  <text x="2204" y="8842" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(2142,0)</text>
+  <text x="2704" y="7649" text-anchor="end" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(2646,1204)</text>
+  <rect x="60" y="7626" width="812" height="434" fill="#f032e6" stroke="#333" stroke-width="0.8" opacity="0.85"/>
+  <text x="466" y="7835.2" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="bold" fill="#111" paint-order="stroke" stroke="white" stroke-width="2">M047</text>
+  <text x="466" y="7853.4" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#333" paint-order="stroke" stroke="white" stroke-width="1.5">812×434</text>
+  <text x="62" y="8058" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(0,784)</text>
+  <text x="870" y="7635" text-anchor="end" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(812,1218)</text>
+  <rect x="3350" y="6996" width="1302" height="728" fill="#bfef45" stroke="#333" stroke-width="0.8" opacity="0.85"/>
+  <text x="4001" y="7352.2" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="bold" fill="#111" paint-order="stroke" stroke="white" stroke-width="2">M048</text>
+  <text x="4001" y="7370.4" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#333" paint-order="stroke" stroke="white" stroke-width="1.5">1302×728</text>
+  <text x="3352" y="7722" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(3290,1120)</text>
+  <text x="4650" y="7005" text-anchor="end" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(4592,1848)</text>
+  <rect x="886" y="7654" width="742" height="392" fill="#fabed4" stroke="#333" stroke-width="0.8" opacity="0.85"/>
+  <text x="1257" y="7842.2" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="bold" fill="#111" paint-order="stroke" stroke="white" stroke-width="2">M049</text>
+  <text x="1257" y="7860.4" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#333" paint-order="stroke" stroke="white" stroke-width="1.5">742×392</text>
+  <text x="888" y="8044" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(826,798)</text>
+  <text x="1626" y="7663" text-anchor="end" font-size="8" fill="#555" paint-order="stroke" stroke="white" stroke-width="1.5">(1568,1190)</text>
+  <circle cx="60" cy="5624" r="4" fill="#e94560" stroke="white" stroke-width="1"/>
+  <text x="66" y="5620" font-size="7" fill="#c0392b">N024</text>
+  <circle cx="4778" cy="8844" r="4" fill="#e94560" stroke="white" stroke-width="1"/>
+  <text x="4784" y="8840" font-size="7" fill="#c0392b">N023</text>
+  <circle cx="7732" cy="5442" r="4" fill="#e94560" stroke="white" stroke-width="1"/>
+  <text x="7738" y="5438" font-size="7" fill="#c0392b">N022</text>
+  <circle cx="7732" cy="6282" r="4" fill="#e94560" stroke="white" stroke-width="1"/>
+  <text x="7738" y="6278" font-size="7" fill="#c0392b">N021</text>
+  <circle cx="60" cy="2362" r="4" fill="#e94560" stroke="white" stroke-width="1"/>
+  <text x="66" y="2358" font-size="7" fill="#c0392b">N020</text>
+  <circle cx="60" cy="7794" r="4" fill="#e94560" stroke="white" stroke-width="1"/>
+  <text x="66" y="7790" font-size="7" fill="#c0392b">N019</text>
+  <circle cx="60" cy="6702" r="4" fill="#e94560" stroke="white" stroke-width="1"/>
+  <text x="66" y="6698" font-size="7" fill="#c0392b">N017</text>
+  <circle cx="5814" cy="1004" r="4" fill="#e94560" stroke="white" stroke-width="1"/>
+  <text x="5820" y="1000" font-size="7" fill="#c0392b">N016</text>
+  <circle cx="7732" cy="3762" r="4" fill="#e94560" stroke="white" stroke-width="1"/>
+  <text x="7738" y="3758" font-size="7" fill="#c0392b">N015</text>
+  <circle cx="7732" cy="4602" r="4" fill="#e94560" stroke="white" stroke-width="1"/>
+  <text x="7738" y="4598" font-size="7" fill="#c0392b">N014</text>
+  <circle cx="7732" cy="1004" r="4" fill="#e94560" stroke="white" stroke-width="1"/>
+  <text x="7738" y="1000" font-size="7" fill="#c0392b">N013</text>
+  <circle cx="7732" cy="1004" r="4" fill="#e94560" stroke="white" stroke-width="1"/>
+  <text x="7738" y="1000" font-size="7" fill="#c0392b">N012</text>
+  <circle cx="60" cy="3454" r="4" fill="#e94560" stroke="white" stroke-width="1"/>
+  <text x="66" y="3450" font-size="7" fill="#c0392b">N011</text>
+  <circle cx="60" cy="1004" r="4" fill="#e94560" stroke="white" stroke-width="1"/>
+  <text x="66" y="1000" font-size="7" fill="#c0392b">N010</text>
+  <circle cx="60" cy="1004" r="4" fill="#e94560" stroke="white" stroke-width="1"/>
+  <text x="66" y="1000" font-size="7" fill="#c0392b">N009</text>
+  <circle cx="60" cy="4546" r="4" fill="#e94560" stroke="white" stroke-width="1"/>
+  <text x="66" y="4542" font-size="7" fill="#c0392b">N008</text>
+  <circle cx="3658" cy="8844" r="4" fill="#e94560" stroke="white" stroke-width="1"/>
+  <text x="3664" y="8840" font-size="7" fill="#c0392b">N006</text>
+  <circle cx="2538" cy="8844" r="4" fill="#e94560" stroke="white" stroke-width="1"/>
+  <text x="2544" y="8840" font-size="7" fill="#c0392b">N005</text>
+  <circle cx="1418" cy="8844" r="4" fill="#e94560" stroke="white" stroke-width="1"/>
+  <text x="1424" y="8840" font-size="7" fill="#c0392b">N004</text>
+  <circle cx="7732" cy="7962" r="4" fill="#e94560" stroke="white" stroke-width="1"/>
+  <text x="7738" y="7958" font-size="7" fill="#c0392b">N003</text>
+  <circle cx="7732" cy="7122" r="4" fill="#e94560" stroke="white" stroke-width="1"/>
+  <text x="7738" y="7118" font-size="7" fill="#c0392b">N002</text>
+  <circle cx="5898" cy="8844" r="4" fill="#e94560" stroke="white" stroke-width="1"/>
+  <text x="5904" y="8840" font-size="7" fill="#c0392b">N001</text>
+</svg>
