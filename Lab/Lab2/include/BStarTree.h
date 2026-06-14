@@ -3,7 +3,7 @@
 #include <map>
 #include <vector>
 
-// ─── B*-Tree node ────────────────────────────────────────────────────────────
+// B*-Tree node
 struct BNode {
     int    idx;
     BNode* left;
@@ -13,7 +13,7 @@ struct BNode {
         : idx(i), left(nullptr), right(nullptr), parent(nullptr) {}
 };
 
-// ─── Contour ─────────────────────────────────────────────────────────────────
+// Contour
 class Contour {
 public:
     void clear();
@@ -23,7 +23,7 @@ private:
     std::map<int,int> seg_;
 };
 
-// ─── BStarTree ───────────────────────────────────────────────────────────────
+// BStarTree
 class BStarTree {
 public:
     BStarTree() : root_(nullptr) {}
@@ -34,14 +34,15 @@ public:
     BStarTree(BStarTree&&) noexcept;
     BStarTree& operator=(BStarTree&&) noexcept;
 
-    void      init(const std::vector<Block>& blocks);
+    void      init(const std::vector<Block>& blocks,
+                   const std::vector<int>& order = std::vector<int>());
     void      clear();
     BStarTree clone() const;
 
     void pack(std::vector<Block>& blocks) const;
     int  size() const { return (int)nodes_.size(); }
 
-    // ── Move / Undo ──────────────────────────────────────────────────────────
+    // Move / Undo
     // PtrPatch: records one pointer field before it was modified.
     struct PtrPatch { BNode** slot; BNode* oldVal; };
 

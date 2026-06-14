@@ -33,6 +33,6 @@ build/%.o: src/%.cpp
 
 # Clean
 clean:
-	rm -rf build bin dataset/*/*.rpt dataset/*/*.HPWL
+	rm -rf build bin images/ dataset/*/*.rpt dataset/*/*.HPWL
 
 .PHONY: all clean

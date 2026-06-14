@@ -10,8 +10,9 @@ class SAEngine {
 public:
     struct Config {
         double coolRate        = 0.995;
-        int    innerFactor     = 12;     // inner loop = n * innerFactor
-        double timeLimitSec    = 270.0;
+        int    innerFactor     = 12;      // inner = n * innerFactor
+        double totalTimeSec    = 280.0;   // wall-clock budget for all restarts
+        double noImproveTimeSec= 30.0;    // restart if no improvement for this long
         int    estimateSamples = 200;
     };
 
@@ -20,25 +21,35 @@ public:
         std::vector<int> x, y, w, h;
     };
 
-    // costFn    : penalized cost used for SA acceptance
-    // trueCostFn: integer alpha*A+(1-alpha)*W, only used to track best
-    // fitFn     : true when placement is inside outline
-    // onLambdaUpdate: called each outer iteration so Floorplanner can
-    //                 adjust lambda before next inner loop
     Result run(
         BStarTree&                                               tree,
         std::vector<Block>&                                      blocks,
         std::function<double(const std::vector<Block>&)>         costFn,
         std::function<long long(const std::vector<Block>&)>      trueCostFn,
         std::function<bool(const std::vector<Block>&)>           fitFn,
-        std::function<void(bool /*fit*/)>                        onLambdaUpdate,
+        std::function<void(bool /*fit*/, bool /*restart*/)>      onRestart,
         const Config& cfg);
 
 private:
-    std::mt19937 rng_{42};
+    std::mt19937 rng_;
     std::chrono::steady_clock::time_point start_;
 
     double elapsed() const;
+
+    // Run one SA pass from the current tree state.
+    // Returns when time is up OR no improvement for noImproveTimeSec.
+    // Updates `best` if a better solution is found.
+    // Returns true if the total time limit has been reached.
+    bool runOnce(
+        BStarTree&                                                tree,
+        std::vector<Block>&                                       blocks,
+        const std::function<double(const std::vector<Block>&)>&   costFn,
+        const std::function<long long(const std::vector<Block>&)>&trueCostFn,
+        const std::function<bool(const std::vector<Block>&)>&     fitFn,
+        const std::function<void(bool,bool)>&                     onRestart,
+        Result&                                                   best,
+        const Config&                                             cfg);
+
     double estimateT0(BStarTree& tree, std::vector<Block>& blocks,
                       const std::function<double(const std::vector<Block>&)>& costFn,
                       double curCost, int samples);
