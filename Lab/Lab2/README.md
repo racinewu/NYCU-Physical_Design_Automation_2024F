@@ -1,5 +1,5 @@
 # Fixed Outline Floorplanning
-The Fixed Outline Floorplanning Lab implements a floorplanner for hard macros under a strict area constraint. Given a set of rectangular macros and interconnection nets, the floorplanner arranges all macros within a fixed rectangular chip boundary without any overlaps, with the lower-left corner of the chip placed at the origin. No routing channels are required between adjacent macros. The objective is to jointly minimize the bounding-box area of the placed layout and the total half-perimeter wire length of all nets, balanced by a user-defined weighting parameter.
+Fixed-outline floorplanning arranges a set of rectangular hard macros within a given chip boundary without overlaps, minimizing both the total layout area and the interconnect wirelength between blocks. It is a core step in physical design, determining the spatial organization of functional units before placement and routing, and directly impacting chip area, performance, and power consumption.
 
 ## Problem Formulation
 Given a fixed chip outline, a set of hard macros each with a fixed width and height, a set of fixed-position terminals located on or outside the outline, and a set of nets each connecting a subset of macros and terminals, the goal is to find a non-overlapping placement of all macros within the outline that minimizes a weighted sum of the bounding-box area and the total wirelength. The total wirelength is computed as the sum of half-perimeter wire lengths over all nets, where the center point of each macro serves as its pin location with coordinates truncated to integers. The weighting between area and wirelength is controlled by a user-specified parameter ranging from 0 to 1. Any placement in which one or more macros fall outside the given outline is considered invalid and rejected.
@@ -22,7 +22,7 @@ Given a fixed chip outline, a set of hard macros each with a fixed width and hei
 ## Parameters
 - **alpha** (0–1): weight between chip area and HPWL.
 - **totalTimeSec** (default 280 s): total wall-clock budget across all restarts.
-- `noImproveTimeSec** (default ~33 s): no-improve window before restart; 12% of total budget.
+- **noImproveTimeSec** (default ~33 s): no-improve window before restart; 12% of total budget.
 - **coolRate** (default 0.995): geometric cooling multiplier per inner loop.
 - **innerFactor** (default 12): inner loop length = `n × innerFactor`.
 - **lambda**: outline violation penalty; ×1.08 per out-of-bound round, ×0.99 per in-bound round.
