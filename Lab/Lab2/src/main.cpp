@@ -7,7 +7,7 @@ using namespace std;
 int main(int argc, char* argv[])
 {
     if (argc != 5) {
-        cerr << "Usage: ./Lab2 <alpha> <input.block> <input.nets> <output.rpt>" << endl;
+        cerr << "Usage: ./bin/fp <alpha> <input_blk>.block <input_net>.nets <output>.rpt" << endl;
         return 1;
     }
 
