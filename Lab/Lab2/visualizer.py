@@ -1,7 +1,7 @@
 import sys, os
 
 def parse_block(path):
-    with open(path) as f:
+    with open(path, encoding='utf-8') as f:
         lines = [l.rstrip('\r\n') for l in f]
     outline_w = outline_h = 0
     blocks, terminals = [], []
@@ -168,7 +168,7 @@ def main():
     rpt_data   = parse_rpt(rpt_file)
 
     svg = build_svg(block_data, rpt_data, case_name)
-    with open(out_svg, 'w') as f:
+    with open(out_svg, 'w', encoding='utf-8') as f:
         f.write(svg)
 
     print(f'[Visualizer] {len(block_data["blocks"])} macros, '
