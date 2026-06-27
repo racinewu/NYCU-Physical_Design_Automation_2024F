@@ -21,11 +21,17 @@ Lecturer: 陳宏明 Hung-Ming Chen
 - Introduction to 2.5D/3D IC Integration
 
 ## Lab
-- Lab1 [README](/Lab/Lab1/README.md)
-- Lab2 [README](/Lab/Lab2/README.md)
-- Lab3 [README](/Lab/Lab3/README.md)
-- Lab4 [README](/Lab/Lab4/README.md)
+- Lab1 [README](/Lab/Lab1/)
+- Lab2 [README](/Lab/Lab2/)
+- Lab3 [README](/Lab/Lab3/)
+- Lab4 [README](/Lab/Lab4/)
 
+## Environment:
+| Operating System | Compiler Version    | C++ Standard |
+|------------------|---------------------|--------------|
+| CentOS 6.10      | gcc 4.9.2           | C++11        |
+| Ubuntu 22.04     | gcc 9.5.0           | C++11        |
+| Windows 11       | gcc 15.1.0 (UCRT64) | C++11        |
 
 ## Exam
 - 2024 Mid Quiz (Open materials, offline only)
