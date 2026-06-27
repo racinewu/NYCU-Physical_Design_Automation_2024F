@@ -12,7 +12,7 @@ OBJ = $(patsubst src/%.cpp, build/%.o, $(SRC))
 DEP = $(OBJ:.o=.d)
 
 # Target
-TARGET = bin/CStitch
+TARGET = bin/cstitch
 
 # Default target
 all: $(TARGET)

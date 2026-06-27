@@ -9,7 +9,7 @@ int main(int argc, char *argv[])
 {
     if (argc < 3)
     {
-        cerr << "Usage: ./stitcher <input>.txt <output>.txt" << endl;
+        cerr << "Usage: ./bin/cstitch <input>.txt <output>.txt" << endl;
         return 1;
     }
 

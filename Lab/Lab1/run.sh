@@ -4,7 +4,7 @@ TESTCASE_DIR="testcase"
 INPUT_DIR="$TESTCASE_DIR/input"
 OUTPUT_DIR="$TESTCASE_DIR/output"
 GOLDEN_DIR="$TESTCASE_DIR/golden"
-TARGET="./bin/CStitch"
+TARGET="./bin/cstitch"
 
 # Colors
 BLUE="\e[34m"
